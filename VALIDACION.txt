@@ -1,0 +1,8 @@
+Validación de esta adaptación:
+- Python 3.12.14.
+- Las 16 pruebas originales de RSA pasan.
+- rsa_math.py y rsa_text.py conservan exactamente el código original.
+- La sintaxis de todos los archivos Python fue comprobada.
+- Se incluyen 2 pruebas de interfaz en test_web.py, pendientes de ejecutar:
+  este entorno no permitió instalar Streamlit.
+- La interfaz todavía debe probarse al publicar. El ZIP no es una web publicada.
